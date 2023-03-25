@@ -4,11 +4,15 @@ Welcome to Lost Island! This is a small text-based game where your mission is to
 
 # How to Play
 
-To play the game, simply run the script in a Python environment. The game will ask you which way you would like to go, right or left. Type your choice and press enter.
+To play the game, simply run:
+~~~
+main.py
+~~~
+in a Python environment.  
 
-If you choose left, you will be presented with another choice to swim or wait. If you choose to wait, you will be given another choice to choose between a ship, a helicopter, and a girl. Your choice will determine the outcome of the game.
+The game will ask you which way you would like to go, right or left. Type your choice and press enter.  
 
-If you choose right, you will fall into the ocean and the game will end.
+Your choice will determine the outcome of the game.  
 
 # Contributing
 
